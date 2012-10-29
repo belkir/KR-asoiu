@@ -1,0 +1,9 @@
+c:\users\kirill\documents\visual studio 2010\Projects\KR-ASOIU\KR-ASOIU\bin\Debug\KR-ASOIU.exe
+c:\users\kirill\documents\visual studio 2010\Projects\KR-ASOIU\KR-ASOIU\bin\Debug\KR-ASOIU.pdb
+c:\users\kirill\documents\visual studio 2010\Projects\KR-ASOIU\KR-ASOIU\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\kirill\documents\visual studio 2010\Projects\KR-ASOIU\KR-ASOIU\obj\x86\Debug\KR_ASOIU.Form1.resources
+c:\users\kirill\documents\visual studio 2010\Projects\KR-ASOIU\KR-ASOIU\obj\x86\Debug\KR_ASOIU.Properties.Resources.resources
+c:\users\kirill\documents\visual studio 2010\Projects\KR-ASOIU\KR-ASOIU\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\kirill\documents\visual studio 2010\Projects\KR-ASOIU\KR-ASOIU\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\kirill\documents\visual studio 2010\Projects\KR-ASOIU\KR-ASOIU\obj\x86\Debug\KR-ASOIU.exe
+c:\users\kirill\documents\visual studio 2010\Projects\KR-ASOIU\KR-ASOIU\obj\x86\Debug\KR-ASOIU.pdb
